@@ -7,9 +7,9 @@ ppo: refer to pg_travel(https://github.com/reinforcement-learning-kr/pg_travel/b
 
 hyperparameter:
 1. ddpg
-hyperparameter | value
-------|------
-state space dim | 10
-control space dim | 1
-total num. policy params | 40960
-steps per iteration | 3000
+hyperparameter | value  
+------|------  
+state space dim | 10  
+control space dim | 1  
+total num. policy params | 40960  
+steps per iteration | 3000  
