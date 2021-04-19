@@ -35,6 +35,7 @@ Entropy coefficient(c_2) | 0
 
 
 reference
+
 [1] https://github.com/higgsfield/RL-Adventure-2/blob/master/5.ddpg.ipynb
 
 [2] https://github.com/reinforcement-learning-kr/pg_travel/blob/master/mujoco/agent/ppo_gae.py
