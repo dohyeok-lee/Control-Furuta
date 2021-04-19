@@ -1,5 +1,6 @@
 # Control-Furuta
-codes for control of furuta pendulum with reinforcement learning
+codes for control of furuta pendulum with reinforcement learning.
+
 swing up for ddpg, balancing for ppo
 
 ddpg hyperparameter | value  
