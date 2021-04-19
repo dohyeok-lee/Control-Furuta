@@ -2,10 +2,6 @@
 codes for control of furuta pendulum with reinforcement learning
 swing up for ddpg, balancing for ppo
 
-ddpg: refer to RL-Adventure-2(https://github.com/higgsfield/RL-Adventure-2/blob/master/5.ddpg.ipynb)
-
-ppo: refer to pg_travel(https://github.com/reinforcement-learning-kr/pg_travel/blob/master/mujoco/agent/ppo_gae.py)
-
 ddpg hyperparameter | value  
 ------------ | ------------  
 state space dim | 10  
@@ -36,3 +32,7 @@ GAE parameter(lambda) | 0.98
 clipping parameter(elipsion) | 0.2
 VF coefficient(c_1) | 0.5
 Entropy coefficient(c_2) | 0
+
+reference
+[1] https://github.com/higgsfield/RL-Adventure-2/blob/master/5.ddpg.ipynb
+[2] https://github.com/reinforcement-learning-kr/pg_travel/blob/master/mujoco/agent/ppo_gae.py
