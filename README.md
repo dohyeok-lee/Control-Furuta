@@ -3,6 +3,8 @@ codes for control of furuta pendulum with reinforcement learning.
 
 swing up for ddpg, balancing for ppo
 
+experiment video link(youtube): https://www.youtube.com/watch?v=a6W6u8iMDU8
+
 ddpg hyperparameter | value  
 ------------ | ------------  
 state space dim | 10  
